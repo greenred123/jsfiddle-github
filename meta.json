@@ -1,0 +1,254 @@
+{
+    "categories": {
+        "maps-js": {
+            "title": "JavaScript API",
+            "meta": {
+                "keywords": "Maps API for JavaScript, API Explorer, Playground"
+            },
+            "examples": [
+                {
+                    "uid": "capture-map-area",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "capture-map-area-1",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "circle-on-the-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "custom-cluster-theme",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "custom-tile-overlay",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "custom-zooming-into-bounds",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "display-kml-on-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "draggable-marker",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "explore-places",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "finding-the-nearest-marker",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "geocode-a-location-from-address",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "geocode-a-location-from-structured-address",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "get-place-details",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "ground-overlay",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "identify-places-at-location",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-at-specified-location",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-multi-language-support",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-object-events-displayed",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-object-events-delegation",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-scale-bar-changing-from-the-metric-system",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-using-view-bounds",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-dom-marker",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-interactive-kml-objects",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-pedestrian-route-from-a-to-b",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-route-from-a-to-b",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-route-from-a-to-b-using-public-transport",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-svg-graphic-markers",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "map-with-truck-route-from-a-to-b",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "marker-clustering",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "markers-on-the-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "meta-info-layer",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "moved-map-components",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "offline-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "open-infobubble",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "ordering-overlapping-markers",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "panning-the-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "polygon-on-the-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "position-on-mouse-click",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "rectangle-on-the-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "restrict-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "reverse-geocode-an-address-from-location",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "search-for-landmark",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "search-for-places",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "showing-traffic-information",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "synchronising-two-maps",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "terrain-map",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "venues-layer",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                },{
+                    "uid": "zoom-to-set-of-markers",
+                    "title": "", 
+                    "shortDescription": "",
+                    "published": true
+                }
+            ]
+            
+        }
+    }
+}
