@@ -12,9 +12,8 @@
             "meta": {
                 "keywords": "Maps API for JavaScript, API Explorer, Playground, JS Examples"
             },
-            "sub-categories": [
-                { 
-                    "uid": "maps"
+            "sub-categories": {
+                "maps": { 
                     "title": "Maps",
                     "examples": [
                         {
@@ -86,8 +85,7 @@
 
                     ]
                 },
-                {
-                    "uid": "markers",
+                "markers": {
                     "title": "Markers",
                     "examples": [
                         {
@@ -128,8 +126,7 @@
                         }
                     ]
                 },
-                {
-                    "uid": "geoshapes",
+                "geoshapes": {
                     "title": "Geoshapes",
                     "examples": [
                         {
@@ -160,8 +157,7 @@
                         }
                     ]
                 }, 
-                {
-                    "uid": "clustering",
+                "clustering": {
                     "title": "Clustering",
                     "examples": [
                         {
@@ -177,8 +173,7 @@
                         }
                     ]
                 },
-                {
-                    "uid": "events",
+                "events": {
                     "title": "Events",
                     "examples": [
                         {
@@ -194,8 +189,7 @@
                         }
                     ]
                 },
-                {
-                    "uid": "infoBubbles",
+                "infoBubbles": {
                     "title": "Info Bubbles",
                     "examples": [
                         {
@@ -226,8 +220,7 @@
                         }
                     ]
                 },
-                {
-                    "uid": "servicesRouting",
+                "servicesRouting": {
                     "title": "Services - Routings, Geocoding",
                     "examples": [
                         {
@@ -268,9 +261,8 @@
                         }
                     ]
                 },
-                {
-                    "uid": "platformDataExtensions",
-                    "title": "Integration of Platform Data Extension",
+                "platformDataExtensions": {
+                    "title": "",
                     "examples": [
                         {
                             "uid": "search-match-pde",
@@ -287,7 +279,7 @@
                     ]
                 }
 
-            ]
+            }
             
         }
     }
