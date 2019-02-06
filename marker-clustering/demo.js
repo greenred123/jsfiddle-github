@@ -68,9 +68,10 @@ var ui = H.ui.UI.createDefault(map, defaultLayers);
 //
 //  The jQuery library is available under an MIT license  https://jquery.org/license/
 //
-var url= 'https://api.github.com/repos/greenred123/jsfiddle-github/contents/marker-clustering/demo/response.json';
+var url= '/gh/get/response.json/heremaps/jsfiddle-github/tree/master/marker-clustering/';
 $.ajax({
     type: 'GET',
+    dataType: 'json',
     url: url,
     success:  function (data) {
       startClustering(map, data);
