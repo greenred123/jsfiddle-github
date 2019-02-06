@@ -68,15 +68,15 @@ var ui = H.ui.UI.createDefault(map, defaultLayers);
 //
 //  The jQuery library is available under an MIT license  https://jquery.org/license/
 //
-var url= '/gh/get/response.json/heremaps/jsfiddle-github/tree/master/marker-clustering/';
-$.ajax({
-    type: 'GET',
-    dataType: 'json',
-    url: url,
-    success:  function (data) {
-      startClustering(map, data);
-    }
-});
+// var url= '/gh/get/response.json/heremaps/jsfiddle-github/tree/master/marker-clustering/';
+// $.ajax({
+//     type: 'GET',
+//     dataType: 'json',
+//     url: url,
+//     success:  function (data) {
+//       startClustering(map, data);
+//     }
+// });
 
 
-$('head').append('<link rel="stylesheet" href="https://js.api.here.com/v3/3.0/mapsjs-ui.css" type="text/css" />');
+// $('head').append('<link rel="stylesheet" href="https://js.api.here.com/v3/3.0/mapsjs-ui.css" type="text/css" />');
